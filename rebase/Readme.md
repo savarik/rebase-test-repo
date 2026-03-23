@@ -1,1 +1,2 @@
-Git test so fun!
+Test java project with gitignore
+Git update is so fun!
