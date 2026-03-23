@@ -1,0 +1,1 @@
+Test java project with gitignore
